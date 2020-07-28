@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/caglarkarakoc/caglarkarakoc/blob/master/dino.gif)
 
 <!--
 **caglarkarakoc/caglarkarakoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
